@@ -1,6 +1,4 @@
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacopola&theme=tokyonight&show_icons=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=tacopola&color=green)
 
 ## Top Languages
