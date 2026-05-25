@@ -11,5 +11,6 @@
 -  Web App stack: Nextjs, Drizzle, Zod, Zustand and Supabase.
 -  Machine Learning stack: Python, Scikitlearn, Pandas, NumPy and PostgreSQL.
 -  Dev Environment: WSL debian with docker.
+-  Devops: Docker + VPS, Github and nginx proxy
 -  How to reach me: alvisjm30@gmail.com
 
