@@ -8,7 +8,8 @@
 ## About Me
 -  I’m currently working on multiple different projects.
 -  I’m currently learning [Firebase](https://firebase.google.com/), [Supabase](https://supabase.io/), and [AWS](https://aws.amazon.com/).
--  Current stack: Nextjs, Drizzle, Zond and Supabase.
+-  Web App stack: Nextjs, Drizzle, Zod, Zustand and Supabase.
+-  Machine Learning stack: Python, Scikitlearn, Pandas, NumPy and PostgreSQL.
 -  Dev Environment: WSL debian with docker.
 -  How to reach me: alvisjm30@gmail.com
 
